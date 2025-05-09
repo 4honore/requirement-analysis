@@ -62,3 +62,32 @@ Use models like data flow diagrams (DFDs), use case diagrams, and entity-relatio
 Review requirements with stakeholders to confirm accuracy and relevance.
 
 Ensure that the documented requirements align with business goals and are technically achievable.
+
+# Key Activities in Requirement Analysis
+Requirement Analysis involves several structured activities to ensure that the software system is well-understood and aligned with user needs. Below are the five key activities involved in this phase:
+
+1. Requirement Gathering
+Collect raw data and information about user needs, expectations, and business objectives.
+
+Involves stakeholders such as clients, end-users, and business analysts.
+
+2. Requirement Elicitation
+Use techniques like interviews, questionnaires, brainstorming sessions, and observation to extract detailed requirements.
+
+Focuses on uncovering both stated and unstated needs.
+
+3. Requirement Documentation
+Record all gathered and elicited requirements in a clear and organized format (e.g., Software Requirement Specification - SRS).
+
+Ensures that the requirements are accessible to all stakeholders for reference and review.
+
+4. Requirement Analysis and Modeling
+Examine and refine the documented requirements for completeness, clarity, consistency, and feasibility.
+
+Use models like data flow diagrams (DFDs), use case diagrams, and entity-relationship diagrams to visualize the system.
+
+5. Requirement Validation
+Review requirements with stakeholders to confirm accuracy and relevance.
+
+Ensure that the documented requirements align with business goals and are technically achievable.
+
