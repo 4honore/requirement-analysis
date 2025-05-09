@@ -63,31 +63,36 @@ Review requirements with stakeholders to confirm accuracy and relevance.
 
 Ensure that the documented requirements align with business goals and are technically achievable.
 
-# Key Activities in Requirement Analysis
-Requirement Analysis involves several structured activities to ensure that the software system is well-understood and aligned with user needs. Below are the five key activities involved in this phase:
+# Types of Requirements
+In software development, requirements are typically classified into two main categories: Functional Requirements and Non-functional Requirements. Both types are essential to ensure the system is usable, reliable, and meets user expectations.
 
-1. Requirement Gathering
-Collect raw data and information about user needs, expectations, and business objectives.
+### Functional Requirements
+Functional requirements describe the specific features and behaviors the system must support. These define what the system should do.
 
-Involves stakeholders such as clients, end-users, and business analysts.
+Examples for a Booking Management Project:
 
-2. Requirement Elicitation
-Use techniques like interviews, questionnaires, brainstorming sessions, and observation to extract detailed requirements.
+Users can register, log in, and log out of their accounts.
 
-Focuses on uncovering both stated and unstated needs.
+Customers can search for available booking slots and make reservations.
 
-3. Requirement Documentation
-Record all gathered and elicited requirements in a clear and organized format (e.g., Software Requirement Specification - SRS).
+Admins can create, update, and delete booking slots.
 
-Ensures that the requirements are accessible to all stakeholders for reference and review.
+Users receive email notifications upon successful booking.
 
-4. Requirement Analysis and Modeling
-Examine and refine the documented requirements for completeness, clarity, consistency, and feasibility.
+The system should allow customers to cancel or reschedule bookings within a defined time frame.
 
-Use models like data flow diagrams (DFDs), use case diagrams, and entity-relationship diagrams to visualize the system.
+### Non-functional Requirements
+Non-functional requirements specify the quality attributes of the system, defining how the system should behave or perform.
 
-5. Requirement Validation
-Review requirements with stakeholders to confirm accuracy and relevance.
+Examples for a Booking Management Project:
 
-Ensure that the documented requirements align with business goals and are technically achievable.
+The system should respond to user actions within 2 seconds.
+
+It must be accessible on both desktop and mobile devices (responsive design).
+
+User data must be encrypted to maintain privacy and security.
+
+The application should maintain 99.9% uptime, ensuring high availability.
+
+It should be able to handle at least 500 simultaneous users without performance degradation.
 
